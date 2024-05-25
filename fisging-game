@@ -1,0 +1,10 @@
+fishing-game/
+├── index.html
+├── styles/
+│   └── styles.css
+├── scripts/
+│   └── game.js
+├── images/
+│   ├── fish.png
+│   └── background.jpg
+└── README.md
